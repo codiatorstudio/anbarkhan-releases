@@ -1,0 +1,33 @@
+name: Bug report / گزارش ایراد
+description: Report a reproducible application problem / گزارش مشکل قابل بازتولید
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not include customer data, databases, licenses, device IDs or credentials. برای مشکلات فعال‌سازی با پشتیبانی رسمی تماس بگیرید؛ داده حساس ارسال نکنید."
+  - type: input
+    id: version
+    attributes:
+      label: Application version / نسخه برنامه
+      placeholder: "1.9.3"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version / نسخه ویندوز
+      placeholder: "Windows 11"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce / مراحل بازتولید
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior / رفتار مورد انتظار و واقعی
+    validations:
+      required: true

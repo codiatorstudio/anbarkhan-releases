@@ -1,0 +1,17 @@
+name: Feature request / پیشنهاد قابلیت
+description: Explain a workflow improvement / پیشنهاد بهبود گردش کار
+title: "[Suggestion] "
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Your workflow and need / گردش کار و نیاز شما
+      description: "Use examples without customer or confidential data. از داده نمونه و غیرمحرمانه استفاده کنید."
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome / نتیجه مورد انتظار
+    validations:
+      required: true
