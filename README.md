@@ -8,7 +8,7 @@
 
 **مدیریت موجودی، فاکتور و گزارش‌های کسب‌وکار در یک محیط فارسی**
 
-Windows 10 & 11 · فارسی / RTL · Product version 1.9.3
+Windows 10 & 11 · فارسی / RTL · Product version 1.9.4
 
 [Website / وب‌سایت](https://anbarkhan.ir) · [Downloads / دانلود](docs/DOWNLOADS.md) · [User guide / راهنما](docs/GETTING_STARTED.md) · [Support / پشتیبانی](SUPPORT.md)
 
@@ -17,6 +17,8 @@ Windows 10 & 11 · فارسی / RTL · Product version 1.9.3
 </div>
 
 ---
+
+**[Download AnbarKhan 1.9.4 / دانلود انبارخوان ۱.۹.۴](https://github.com/codiatorstudio/anbarkhan-releases/releases/tag/v1.9.4)**
 
 ## فارسی
 
