@@ -4,6 +4,20 @@ This is a product change summary, not a reconstructed Git development history. G
 
 این صفحه خلاصه تغییرات محصول است؛ وضعیت انتشار فایل نصب در [دانلودها](docs/DOWNLOADS.md) مشخص می‌شود.
 
+## 1.9.4
+
+- Signed offline activation files and migration from legacy activation codes.
+- Safer Excel text exports, bounded imports and database integrity checks.
+- Automatic pre-import backup retention and rotating crash logs.
+- Updated application icons and header logo; previous loading logo retained.
+- SHA-256 checksums and Persian installation guidance included with the customer package.
+
+- مجوز آفلاین امضاشده و مهاجرت از کد فعال‌سازی قبلی.
+- خروجی امن‌تر Excel، محدودیت درون‌ریزی و بررسی سلامت دیتابیس.
+- نگهداری محدود پشتیبان خودکار و چرخش فایل خطا.
+- آیکون و لوگوی جدید سربرگ با حفظ لوگوی قبلی لودینگ.
+- هش SHA-256 و راهنمای نصب فارسی همراه بسته مشتری.
+
 ## 1.9.3
 
 - Branded startup screen and a more compact application header.
