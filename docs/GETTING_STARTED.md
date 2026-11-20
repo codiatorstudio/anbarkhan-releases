@@ -21,6 +21,10 @@
 
 کلید لایسنس، شناسه دستگاه، رسید خرید و اطلاعات شخصی را در Issue عمومی نگذارید. قیمت و شرایط جاری اشتراک را از مسیر رسمی بررسی کنید.
 
+### نکته مهم نسخه ۱.۹.۴
+
+کدهای ۳۲کاراکتری قبلی پذیرفته نمی‌شوند. پیش از ارتقا برای مجوز جدید مخصوص UID دستگاه هماهنگ کنید. خرید اشتراک از ربات رسمی انجام می‌شود؛ تا به‌روزرسانی صدور مجوز ربات برای این نسخه، فایل .aklicense یا متن مجوز با پیشوند AKL1. را از پشتیبانی دریافت کنید. در پنجره فعال‌سازی، فایل را انتخاب یا متن کامل را وارد کنید. تمدید نیز از بخش اشتراک انجام می‌شود.
+
 ### اولین گردش کار
 
 - اطلاعات شرکت و سربرگ فاکتور را تنظیم کنید.
@@ -42,6 +46,10 @@ Before upgrading, export an Excel or database backup and store a separate copy. 
 On first launch, the application displays a device identifier. Follow the [official guide](https://anbarkhan.ir/guide/) and [official bot](https://t.me/codiatorbot) for licensing or trial requests. Enter the issued license in the activation dialog. Renew through the subscription section.
 
 Never post device identifiers, license keys, receipts or personal details in public issues. Contact [official support](https://t.me/anbarkhanir) privately for activation problems and current subscription terms.
+
+### Version 1.9.4 license migration
+
+Legacy 32-character activation codes are not accepted. Arrange a new device-specific license before upgrading. Subscriptions are purchased through the official bot; until its issuance flow is updated, obtain a .aklicense file or AKL1. token from support. Import the file or paste the full token in the activation dialog. Renew through the subscription section.
 
 ### Start working
 
